@@ -1,0 +1,40 @@
+City_ID,City,Country,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed,Current Description
+0,New Ulm,US,44.3125,-94.4605,21.54,78,90,12.66,light snow
+1,Atuona,PF,-9.8,-139.0333,78.22,73,20,11.43,few clouds
+2,Yellowknife,CA,62.456,-114.3525,-12.59,94,90,5.75,light shower snow
+3,Carnarvon,AU,-24.8667,113.6333,68.07,73,0,13.8,clear sky
+4,Nemuro,JP,43.3236,145.575,23.32,59,7,14.74,clear sky
+5,Cherskiy,RU,68.75,161.3,-30.03,95,100,2.93,overcast clouds
+6,Arraial Do Cabo,BR,-22.9661,-42.0278,75.16,78,75,8.05,broken clouds
+7,Kavieng,PG,-2.5744,150.7967,81.37,78,99,7.38,light rain
+8,Aketi,CD,2.7388,23.7833,73.8,73,80,2.35,broken clouds
+9,Longyearbyen,SJ,78.2186,15.6401,24.64,80,0,11.5,clear sky
+10,Oranjestad,AW,12.524,-70.027,82.35,74,20,4.0,few clouds
+11,Westport,US,41.1415,-73.3579,45.81,95,90,7.0,overcast clouds
+12,Takoradi,GH,4.8845,-1.7554,81.03,82,25,9.13,scattered clouds
+13,Chabahar,IR,25.2919,60.643,70.47,57,100,4.45,overcast clouds
+14,Oudtshoorn,ZA,-33.5907,22.2014,57.56,51,100,2.95,overcast clouds
+15,Albany,US,42.6001,-73.9662,36.81,91,100,5.77,snow
+16,Thompson,CA,55.7435,-97.8558,-11.04,77,40,2.3,scattered clouds
+17,Hobart,AU,-42.8794,147.3294,68.02,57,40,1.99,scattered clouds
+18,Marsa Matruh,EG,31.3525,27.2453,55.6,76,20,18.41,few clouds
+19,Manoel Urbano,BR,-8.8389,-69.2597,79.18,96,98,1.95,overcast clouds
+20,Poum,NC,-20.2333,164.0167,77.97,70,8,7.2,clear sky
+21,Berlevag,NO,70.8578,29.0864,31.51,89,100,17.4,light snow
+22,Qaanaaq,GL,77.484,-69.3632,3.58,71,99,6.42,overcast clouds
+23,Bethel,US,41.3712,-73.414,41.99,90,90,3.0,mist
+24,Punta Arenas,CL,-53.15,-70.9167,69.91,40,0,25.32,clear sky
+25,Ponta Do Sol,PT,32.6667,-17.1,66.83,77,53,12.66,broken clouds
+26,Cape Town,ZA,-33.9258,18.4232,69.12,73,0,1.01,clear sky
+27,Butaritari,KI,3.0707,172.7902,82.0,80,83,17.4,light rain
+28,Iqaluit,CA,63.7506,-68.5145,13.73,92,90,29.93,snow
+29,Tasiilaq,GL,65.6145,-37.6368,30.36,92,100,31.18,snow
+30,Sibolga,ID,1.7427,98.7792,73.76,97,100,3.33,overcast clouds
+31,Rikitea,PF,-23.1203,-134.9692,77.54,76,85,7.38,light rain
+32,Jamestown,US,42.097,-79.2353,43.92,98,90,5.99,light rain
+33,Mount Isa,AU,-20.7333,139.5,80.37,69,1,0.0,clear sky
+34,Glenwood Springs,US,39.5505,-107.3248,34.83,48,1,4.61,clear sky
+35,Chokurdakh,RU,70.6333,147.9167,-34.83,100,97,3.67,overcast clouds
+36,Port Alfred,ZA,-33.5906,26.891,65.19,76,14,23.85,few clouds
+37,Ushuaia,AR,-54.8,-68.3,64.06,45,20,17.27,few clouds
+38,Ekhabi,RU,53.5102,142.9671,-5.6,88,100,13.44,overcast clouds
